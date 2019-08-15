@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIASelectionTool_Core", "TIASelectionTool_Core\TIASelectionTool_Core.csproj", "{970A5F9F-56FB-4ADB-9191-B6442307AF07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIASelectionTool_Model", "TIASelectionTool_Model\TIASelectionTool_Model.csproj", "{B841CA04-7B03-42EC-99CC-EB19A1A6D8DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIASelectionTool_WpfDialog", "TIASelectionTool_WpfDialog\TIASelectionTool_WpfDialog.csproj", "{071FDF42-C966-485B-8583-E87F658E0FC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{970A5F9F-56FB-4ADB-9191-B6442307AF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970A5F9F-56FB-4ADB-9191-B6442307AF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970A5F9F-56FB-4ADB-9191-B6442307AF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970A5F9F-56FB-4ADB-9191-B6442307AF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B841CA04-7B03-42EC-99CC-EB19A1A6D8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B841CA04-7B03-42EC-99CC-EB19A1A6D8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B841CA04-7B03-42EC-99CC-EB19A1A6D8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B841CA04-7B03-42EC-99CC-EB19A1A6D8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071FDF42-C966-485B-8583-E87F658E0FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071FDF42-C966-485B-8583-E87F658E0FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071FDF42-C966-485B-8583-E87F658E0FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071FDF42-C966-485B-8583-E87F658E0FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB65A14-6DE1-4767-A8E8-6DC0E434456E}
+	EndGlobalSection
+EndGlobal
